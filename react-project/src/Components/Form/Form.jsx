@@ -1,8 +1,10 @@
 import React from 'react'
 import './Form.css'
 
-const buttonHandler = () => {
-    window.location.replace("http://localhost:3000/workspace")
+const buttonHandler = (e) => {
+    e.preventDefault()
+    window.localStorage.setItem('isLogin', true)
+    window.location.replace("http://localhost:3001/workspace")
 }
 
 const Form: React.FC = (props) => {

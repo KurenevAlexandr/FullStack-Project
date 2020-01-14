@@ -4,6 +4,7 @@
     <list default="true" id="4b9821d7-23d0-4ee1-be79-3527641df156" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Components/Broadsheet/Broadsheet.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Components/Broadsheet/Broadsheet.jsx" afterDir="false" />
@@ -12,6 +13,8 @@
       <change afterPath="$PROJECT_DIR$/src/Components/Form/Form.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Note/Note.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Note/Note.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Components/Workspace/Workspace.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Components/Workspace/Workspace.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/server/server.js" afterDir="false" />
@@ -106,6 +109,12 @@
       <workItem from="1574496098427" duration="3799000" />
       <workItem from="1578829174778" duration="34000" />
       <workItem from="1578829333777" duration="765000" />
+      <workItem from="1579003830934" duration="1263000" />
+      <workItem from="1579024272537" duration="1775000" />
+      <workItem from="1579026113405" duration="1779000" />
+      <workItem from="1579027950670" duration="1777000" />
+      <workItem from="1579029777444" duration="1153000" />
+      <workItem from="1579031615998" duration="1051000" />
     </task>
     <task id="LOCAL-00001" summary="add picture">
       <created>1574458250098</created>
