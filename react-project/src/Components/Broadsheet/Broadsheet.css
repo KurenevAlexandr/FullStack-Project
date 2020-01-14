@@ -1,0 +1,23 @@
+.broadsheet {
+    position: absolute;
+    top: 50px;
+    left: 250px;
+}
+
+.broadsheet .title {
+    margin-left: auto;
+    margin-right: auto;
+    width: 181px;
+    /*position: relative;*/
+    font-size: 30px;
+    /*left: 300px;*/
+}
+
+.broadsheet .picture{
+
+}
+
+.broadsheet .text {
+    position: relative;
+    left: 2px;
+}
